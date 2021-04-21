@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[31,)"
+
+[[mods]]
+modId="ris3"
+version="b1"
+displayName="Really In Space 3 b1 (1.15x)"
+credits="Nobody"
+displayURL="https://youtube.com/c/souldbminer"
+logoFile="logo.png"
+authors="Souldbminer"
+description='''
+Really In Space 3 ported to 1.15.2
+'''
+
+[[dependencies.ris3]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.15.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+
