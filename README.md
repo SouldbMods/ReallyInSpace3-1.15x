@@ -8,3 +8,5 @@ Requires Geckolib 3
 GeckoLib: https://www.curseforge.com/minecraft/mc-mods/geckolib
 Forge Repo
 
+Note: This port is not updated that offen.
+1.14 and 1.12 will probabaly happen
